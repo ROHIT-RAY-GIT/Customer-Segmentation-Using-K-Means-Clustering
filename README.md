@@ -68,6 +68,8 @@ Along with K-Means, **Hierarchical Clustering** was also performed using **Agglo
 ### 📊 Hierarchical Clustering Visualization:
 A scatter plot was generated similar to the K-Means visualization, showing the 5 clusters formed by **Hierarchical Clustering**.
 
+![image](https://github.com/user-attachments/assets/f42c9526-74e5-4e6a-afe1-9ccdce97684d)
+
 ---
 
 ## 🌐 Streamlit Frontend
