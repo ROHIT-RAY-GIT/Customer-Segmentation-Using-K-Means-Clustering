@@ -80,7 +80,7 @@ A **Streamlit** frontend has been created to allow users to input their own valu
 - **Predict Button**: A button to predict the cluster based on the input values.
 - **Cluster Display**: The app displays the corresponding cluster for the input values.
 
-You can access the Streamlit app [Streamlit App]([insert-your-streamlit-link](https://customer-segmentation-using-k-means-clustering.streamlit.app/)).
+You can access the Streamlit app [Streamlit App]((https://customer-segmentation-using-k-means-clustering.streamlit.app/)).
 
 ---
 
