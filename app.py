@@ -51,7 +51,7 @@ def set_background(image_base64):
     st.markdown(page_bg_img, unsafe_allow_html=True)
 
 # Call the function with the uploaded background image
-image_base64 = get_base64_image("image.jpg")
+image_base64 = get_base64_image("img3.jpg")
 set_background(image_base64)
 
 # Load the dataset
