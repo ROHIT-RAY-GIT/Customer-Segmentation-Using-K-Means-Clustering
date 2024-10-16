@@ -45,6 +45,8 @@ The **Elbow Method** was used to determine the optimal number of clusters for th
 ### Elbow Method Plot:
 The plot of **WCSS** vs. the number of clusters indicated that **5 clusters** is the optimal choice for segmentation.
 
+![image](https://github.com/user-attachments/assets/15ef014b-cdda-4c2b-9bba-6f5e7c80fe37)
+
 ---
 
 ## 🔵 K-Means Clustering
@@ -52,12 +54,14 @@ The **K-Means** algorithm was applied to the dataset with **5 clusters**. This t
 
 ### 📊 K-Means Clustering Visualization:
 A scatter plot was created to visualize the clusters, with each customer assigned to one of the 5 clusters. The cluster centroids were also marked on the plot.
+
 ![K-Means Clustering](https://github.com/user-attachments/assets/5a3e9d7b-348f-4cbe-9230-2f99cb028c17)
 
 ---
 
 ## 🏔️ Hierarchical Clustering (Agglomerative)
 Along with K-Means, **Hierarchical Clustering** was also performed using **Agglomerative Clustering**. A **dendrogram** was plotted to visualize the hierarchy of clusters, and the optimal number of clusters (5) was determined.
+
 ![Agglomerative Clustering](https://github.com/user-attachments/assets/c52df549-1e1f-4f79-ae0a-4ff5ba878937)
 
 
